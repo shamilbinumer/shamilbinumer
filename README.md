@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilbinumer&label=Profile%20views&color=0e75b6&style=flat" alt="shamilbinumer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamilbinumer" alt="shamilbinumer" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://inquisitive-banoffee-6c4be0.netlify.app/](https://inquisitive-banoffee-6c4be0.netlify.app/)
 
 - 💬 Ask me about **React,HTML,CSS,JavaScript,Express js**
