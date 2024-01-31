@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shamil</h1>
-<h3 align="center">A passionate MERN STACK developer from India</h3>
+<h3 align="center">A passionate MERN STACK developer from Kerala</h3>
 
 - 👨‍💻 All of my projects are available at [https://inquisitive-banoffee-6c4be0.netlify.app/](https://inquisitive-banoffee-6c4be0.netlify.app/)
 
