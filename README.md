@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilbinumer&label=Profile%20views&color=0e75b6&style=flat" alt="shamilbinumer" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://inquisitive-banoffee-6c4be0.netlify.app/](https://inquisitive-banoffee-6c4be0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shamilbinumer.web.app/](https://shamilbinumer.web.app/)
 
 - 💬 Ask me about **React,HTML,CSS,JavaScript,Express js**
 
